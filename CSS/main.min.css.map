@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../SASS/main.scss",
+        "../SASS/utils/_variables.scss",
+        "../SASS/components/_logo.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
