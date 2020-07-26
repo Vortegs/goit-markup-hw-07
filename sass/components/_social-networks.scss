@@ -1,9 +1,9 @@
 .social-networks {
-    display: flex;
 
+    display: flex;
     justify-content: center;
 
-    & .item:not(:last-child) {
+    .item:not(:last-child) {
         margin-right: 10px;
     }
 }

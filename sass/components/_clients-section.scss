@@ -3,12 +3,12 @@
     justify-content: center;
     align-items: center;
 
-    & .item {
+    .item {
         width: 170px;
         height: 90px;
     }
 
-    & .item+.item {
+    .item+.item {
         margin-left: 30px;
     }
 }
