@@ -852,7 +852,7 @@ footer .container {
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
-  color: var(--title-text-color);
+  color: #212121;
   background-color: #f5f4fa;
   border: none;
   border-radius: 4px;
@@ -1174,8 +1174,8 @@ textarea {
   margin: 30px auto 40px auto;
   padding: 0;
   background: #188CE8;
-  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
   border: none;
   border-radius: 4px;
   color: #ffffff;
