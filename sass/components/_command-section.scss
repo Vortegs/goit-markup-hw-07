@@ -1,5 +1,5 @@
 .section-command {
-    background-color: #F5F4FA;
+    background-color: #f5f4fa;
 }
 
 .employees {
@@ -12,9 +12,7 @@
         padding-bottom: 24px;
         background-color: $primary-background-color;
 
-
-        box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2),
-            0 1px 1px rgba(0, 0, 0, 0.14),
+        box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2), 0 1px 1px rgba(0, 0, 0, 0.14),
             0 1px 3px rgba(0, 0, 0, 0.12);
         border-radius: 0 0 4px 4px;
     }
